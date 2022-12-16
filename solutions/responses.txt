@@ -1,0 +1,6 @@
+quiz.xml size  = 1231 bytes
+quiz.json size = 1202 bytes
+
+2,35% size saved using json.
+
+Answer: urn:example:Item01 | Because it is defined in the element to which it belongs
